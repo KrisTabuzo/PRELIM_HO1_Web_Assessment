@@ -1,0 +1,270 @@
+.body{
+margin:0px;
+
+}
+
+.nav{
+background-color: 263A29;
+color: white;
+height: 96px;
+margin: 0px;
+width: 100%;
+}
+
+.footer{
+	background-color: 263A29;
+	color: white;
+	height:60px;
+	width:100%
+}
+
+.logo{
+border-radius: 110px;
+width: 70px;
+margin-left: 10px;
+margin-top: 9px;
+}
+
+.myname{
+	margin-left: 30px;
+	font-size: 30px;
+	color:white;
+	font-family:'Times New Roman';
+	top: 26px;
+	position: absolute;
+
+}
+.image{
+	width:100%;
+	height: 950px;
+   background-size: cover;
+	opacity:0.7;
+	position:relative;
+}
+
+.Home,.Contact,.About{
+font-size: 30px;
+font-family:"Bebas Neue";
+margin-top: 26px;
+border: 0px;
+background-color: 263A29;
+color: white;
+cursor: pointer;
+text-decoration: none;
+}
+
+.Homefooter,.Contactfooter,.Aboutfooter{
+	font-size: 22px;
+	font-family:"Bebas Neue";
+	margin-top: 26px; 
+	border: 0px;
+	background-color: 263A29;
+	color: white;
+	cursor: pointer;
+	text-decoration: none;
+	top:5px;
+
+	
+	}
+.Homefooter{
+	margin-left: 30px;
+	text-align: center;
+	
+}
+.Aboutfooter{
+	margin-lEFT: 50PX;
+}
+.Contactfooter{
+	margin-left: 70px;
+}
+.Home{position: Absolute;
+left: 1400px;
+}
+
+.About{position: Absolute;
+left: 1550px;
+}
+
+.Contact{position: Absolute;
+left: 1700px;
+}
+
+.homeimage{
+ width: 350px;
+ margin: 0px;
+ position: absolute;
+ top: 240px;
+ left:27%;
+ border-radius: 50%;
+ z-index:1;
+ border: 5px,solid;
+ border-color: white;
+ 
+}
+.homeinfo{
+width: 1000px;
+height: 600px;
+top:200px;
+left: 490px;
+background-color:263A29;
+position: absolute;
+ border: 1px,solid;
+border-color: white;
+}
+.aboutinfo{
+	width: 600px;
+	height: 700px;
+	top:200px;
+	left: 32%;
+	background-color:263A29;
+	position: absolute;
+	 border: 1px,solid;
+	border-color: white;
+}
+
+.nameko{
+font-size: 40px;
+font-family:"Barrio";
+color: White;
+margin-left:450px;
+margin-bottom: 2px;
+}
+	
+.yearlevel{
+	font-size:  20px;
+	margin-left: 570px;
+	margin-top: 0px;
+	color: white;
+	font-family: "Barrio";
+
+}
+
+.AcadsInt{
+	background-color: 263A29;
+	color: white;
+	height: 96px;
+	margin-left: 450px;
+	margin-right: 100px;
+	width: 50%;
+	font-size:  20px;
+	margin-top: 50px;
+}
+
+
+.aboutlist{
+	background-color: 263A29;
+	color: white;
+	height: 96px;
+	margin-left: 90px;
+	margin-right: 100px;
+	width: 80%;
+	font-size:  20px;
+	margin-top: 50px;
+}
+
+.aboutme{
+	font-size: 40px;
+	font-family:"Barrio";
+	color: White;
+	margin-left:220px;
+	margin-bottom: 2px;
+}
+.education{
+margin-bottom: 10px;
+font-family:"Bebas Neue";
+}
+
+.primary,.secondary,.tertiary{
+	margin-bottom: 2px;
+	margin-top:2px;
+	margin-left: 20px;
+}
+.achievements{
+margin-bottom: 10px;
+margin-left: 20px;
+font-family:"Bebas Neue";
+}
+.form{
+	width: 600px;
+	height: 700px;
+	top:200px;
+	left: 32%;
+	background-color:263A29;
+	position: absolute;
+	 border: 1px,solid;
+	border-color: white;
+}
+
+.askme{
+	font-size: 40px;
+	font-family:"Barrio";
+	color: White;
+	margin-left:180px;
+	margin-bottom: 10px
+}
+
+.forminput{
+
+	background-color: 263A29;
+	color: white;
+	height: 96px;
+	margin-left: 90px;
+	margin-right: 100px;
+	width: 80%;
+	font-size:  25px;
+	margin-top: 50px;
+}
+
+.name{
+	font-size: 20px;
+	width: 300px;
+	margin-bottom: 20px;
+	margin-left:16px; 
+
+}
+
+.subject{
+	font-size: 20px;
+	width: 300px;
+	margin-bottom: 20px;
+
+}
+
+.email{
+	font-size: 20px;
+	width: 300px;
+	margin-bottom: 20px;
+	margin-left:18px;
+}
+
+.message{
+	font-size: 20px;
+	width: 400px;
+	height: 200px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left:18px;
+}
+.submit{
+	background-color: #9DC08B ;
+	color: black;
+	font-size:23px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	border-radius: 20px;
+	padding: 5px;
+	margin-left: 400px;
+	margin-top: 20px
+
+}
+
+.hobbies{
+	background-color: #9DC08B ;
+	color: black;
+	font-size:18px;
+	font-weight: 100;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	border-radius: 20px;
+	padding: 5px;
+	margin-left: 153px;
+	margin-top: 20px
+}
